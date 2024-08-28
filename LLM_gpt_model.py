@@ -5,7 +5,6 @@ from tkintermapview import TkinterMapView
 from PIL import Image
 import threading
 import requests
-#import RPi.GPIO as GPIO
 import time
 customtkinter.set_default_color_theme("blue")
 api_key = "YOUR_API_KEY"
